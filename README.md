@@ -1,2 +1,3 @@
-# joinplex
-Joinplex is a Python library for joining tabular data, capable of complex, multi-stage joins
+![Joinplex Logo](https://github.com/joinplex-dev/brand/blob/main/img/svg/joinplex_full_darkbg.svg)
+
+Joinplex is a Python library for advanced tabular joins in the [`pandas`](https://github.com/pandas-dev) ecosystem.
