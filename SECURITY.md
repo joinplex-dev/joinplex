@@ -4,8 +4,8 @@ Joinplex is in the very early stages of planning.
 If you find a vulnerability in the code as it is being developed, then consider opening a [new public issue](https://github.com/joinplex-dev/joinplex/issues/new).
 If you however believe it to be a sensitive matter, you may email joinplex.dev@gmail.com using PGP Encryption.
 
-## PGP Public Key
-
+```
+-----BEGIN PGP PUBLIC KEY BLOCK----
 xsBNBGNRMtABCADG1fHGuJSfQB5i8O2x3L0dXiPv0bgTYuzOop9KkbpAa87JfetK
 EyVH2Tg6i/zNlWcAWL2Pu/GpySfE4zsGV/3lQ/12oUbsMXESFv1kYzrhj+oXEoLR
 PW+RjWfyqXR25uk7aAMi7XCTj7ABWuK78NKuWkS+3nxGcWvUujnoZam3YNiptOi/
@@ -56,3 +56,5 @@ kvVLXMXrJSWTTvy57eNvyuKr/wW66VmV9MGJPL58EK7KsVj869McsHaRkrLnHpNj
 pkjQB54GUAMHMVO7URDqgIAOhNQt7Qh403JshG5h1N47mUjl9J7Jz0D6LubP/NId
 tyXRQ5U0PhydOjTM0veo8t0nPore
 =bCfV
+-----END PGP PUBLIC KEY BLOCK-----
+```
