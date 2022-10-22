@@ -84,8 +84,8 @@ Doing the same thing directly in `pandas` would be very tedious, and difficult t
 
 This example has been fairly straightforward. Joinplex should be able to handle more complicated examples, such as:
 - Many-to-many, one-to-many and many-to-one joins
+- Joins with three tables or more involved
 - Funnelling based on the number of matches on both sides of the join (e.g. one-to-one distinguished from many-to-one)
 - Other join types than `ColJoin` - based on a functional comparisons, spatial joins using `geopandas`, etc.
-- More complex funnelling logic involving cycles, multiple uses of the same join, etc., yet being economical with computation.
-- Precedence: require that one join outcome is reached before another join is completed, and then restrict the possible join candidates only to those which are not already joined. This is useful in situations where you can use
-"process of elimination" style logic - without ever getting a matching properly speaking.
+- More complex funnelling configurations involving cycles, multiple uses of the same join, etc., yet being economical with computation.
+- Precedence: require that one join outcome is reached before another join is completed, and then restrict the possible join candidates only to those which are not already joined. This is useful in situations where you can use "process of elimination" style logic.
