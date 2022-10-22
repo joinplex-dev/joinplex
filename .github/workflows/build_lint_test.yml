@@ -36,8 +36,6 @@ jobs:
       - name: Check Importable
         run: |
           python -c "import joinplex;"
-      - name: Test
-        uses: ./.github/actions/run-tests
 
       - name: Set up Python ${{ matrix.python-version }}
         uses: actions/setup-python@v4
