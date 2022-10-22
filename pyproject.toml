@@ -19,3 +19,4 @@ disable = [
   "import-error", # Because we won't actually install packages for pre-commit
   "redefined-outer-name", # Because we use pytest fixtures
 ]
+good-names = ["df"]
