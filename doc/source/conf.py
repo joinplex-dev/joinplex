@@ -46,12 +46,30 @@ html_static_path = ["_static"]
 html_theme_options = {
     "github_url": "https://github.com/joinplex-dev/joinplex",
     "pygment_light_style": "tango",
-    "pygment_dark_style": "native",
+    "pygment_dark_style": "monokai",
     "logo": {
         "image_light": "https://github.com/joinplex-dev/brand/blob/main/img/png/512/joinplex_full_lightbg.png",
         "image_dark": "https://github.com/joinplex-dev/brand/blob/main/img/png/512/joinplex_full_darkbg.png",
         "alt_text": "Joinplex Documentation - Index",
     },
+    "favicons": [
+        {
+            "rel": "icon",
+            "sizes": "16x16",
+            "href": "https://github.com/joinplex-dev/brand/blob/main/img/png/16/joinplex_icon_darkbg.png",
+        },
+        {
+            "rel": "icon",
+            "sizes": "32x32",
+            "href": "https://github.com/joinplex-dev/brand/blob/main/img/png/32/joinplex_icon_darkbg.png",
+        },
+        {
+            "rel": "apple-touch-icon",
+            "sizes": "180x180",
+            "href": "https://github.com/joinplex-dev/brand/blob/main/img/png/180/joinplex_icon_darkbg.png",
+            "color": "#000000",
+        },
+    ],
 }
 
 
