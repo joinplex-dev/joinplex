@@ -44,6 +44,12 @@ exclude_patterns = []
 html_theme = "pydata_sphinx_theme"
 html_theme_options = {
     "github_url": "https://github.com/joinplex-dev/joinplex",
+    "pygment_light_style": "tango",
+    "pygment_dark_style": "native",
+    "logo": {
+        "image_light": "brand/full_logo/joinplex_full_lightbg_512.png",
+        "image_dark": "brand/full_logo/joinplex_full_darkbg_512.png",
+    },
 }
 html_static_path = ["_static"]
 
