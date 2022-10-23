@@ -1,3 +1,5 @@
+from datetime import datetime
+
 # Configuration file for the Sphinx documentation builder.
 #
 # For the full list of built-in configuration values, see the documentation:
@@ -5,9 +7,9 @@
 
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
-
+year = datetime.today().year
 project = "Joinplex"
-copyright = "2022, Nathan McDougall"
+copyright = f"{year}, Nathan McDougall"
 author = "Nathan McDougall"
 release = "0.0"
 version = "0.0.0"
