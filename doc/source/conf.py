@@ -42,16 +42,16 @@ exclude_patterns = []
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#options-for-html-output
 
 html_theme = "pydata_sphinx_theme"
+html_static_path = ["_static"]
 html_theme_options = {
     "github_url": "https://github.com/joinplex-dev/joinplex",
     "pygment_light_style": "tango",
     "pygment_dark_style": "native",
     "logo": {
-        "image_light": "brand/full_logo/joinplex_full_lightbg_512.png",
-        "image_dark": "brand/full_logo/joinplex_full_darkbg_512.png",
+        "image_light": "https://github.com/joinplex-dev/brand/blob/main/img/png/512/joinplex_full_lightbg.png",
+        "image_dark": "https://github.com/joinplex-dev/brand/blob/main/img/png/512/joinplex_full_darkbg.png",
     },
 }
-html_static_path = ["_static"]
 
 
 def linkcode_resolve(domain, info):
