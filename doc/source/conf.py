@@ -30,7 +30,6 @@ extensions = [
     "sphinx.ext.linkcode",
     "sphinx.ext.mathjax",
     "sphinx.ext.todo",
-    "nbsphinx",
 ]
 
 templates_path = ["_templates"]
