@@ -68,7 +68,7 @@ This would be the expected output for the join:
 
 And here's how you'd set that up using a ``joinplex``-style interface:
 
-.. code:: python
+.. code-block:: python
 
    name_join = ColJoin(main_df, cheese_df, on='Name')
    food_join = ColJoin(main_df, cheese_df, on='Favourite Food')
