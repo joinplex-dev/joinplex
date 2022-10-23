@@ -40,6 +40,9 @@ exclude_patterns = []
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#options-for-html-output
 
 html_theme = "pydata_sphinx_theme"
+html_theme_options = {
+    "github_url": "https://github.com/joinplex-dev/joinplex",
+}
 html_static_path = ["_static"]
 
 
