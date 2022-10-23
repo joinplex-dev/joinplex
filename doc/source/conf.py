@@ -50,6 +50,7 @@ html_theme_options = {
     "logo": {
         "image_light": "https://github.com/joinplex-dev/brand/blob/main/img/png/512/joinplex_full_lightbg.png",
         "image_dark": "https://github.com/joinplex-dev/brand/blob/main/img/png/512/joinplex_full_darkbg.png",
+        "alt_text": "Joinplex Documentation - Index",
     },
 }
 
