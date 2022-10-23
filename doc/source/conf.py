@@ -17,11 +17,20 @@ version = "0.0.0"
 
 extensions = [
     "sphinx.ext.napoleon",
-    "sphinx.ext.autodoc",
-    "sphinx_panels",
     "sphinx_copybutton",
+    "sphinx_panels",
+    "sphinx_toggleprompt",
+    "sphinx.ext.autodoc",
+    "sphinx.ext.autosummary",
+    "sphinx.ext.coverage",
+    "sphinx.ext.doctest",
+    "sphinx.ext.extlinks",
+    "sphinx.ext.ifconfig",
     "sphinx.ext.intersphinx",
     "sphinx.ext.linkcode",
+    "sphinx.ext.mathjax",
+    "sphinx.ext.todo",
+    "nbsphinx",
 ]
 
 templates_path = ["_templates"]
