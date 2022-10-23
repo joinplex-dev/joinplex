@@ -7,6 +7,7 @@ collection of thoughts and ideas at the moment.
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
+
    reference/cheese_join
 
 
