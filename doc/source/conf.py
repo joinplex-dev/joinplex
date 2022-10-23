@@ -48,25 +48,25 @@ html_theme_options = {
     "pygment_light_style": "tango",
     "pygment_dark_style": "monokai",
     "logo": {
-        "image_light": "https://github.com/joinplex-dev/brand/blob/main/img/png/512/joinplex_full_lightbg.png",
-        "image_dark": "https://github.com/joinplex-dev/brand/blob/main/img/png/512/joinplex_full_darkbg.png",
+        "image_light": "https://github.com/joinplex-dev/brand/blob/main/img/png/512/joinplex_full_lightbg.png?raw=true",
+        "image_dark": "https://github.com/joinplex-dev/brand/blob/main/img/png/512/joinplex_full_darkbg.png?raw=true",
         "alt_text": "Joinplex Documentation - Index",
     },
     "favicons": [
         {
             "rel": "icon",
             "sizes": "16x16",
-            "href": "https://github.com/joinplex-dev/brand/blob/main/img/png/16/joinplex_icon_darkbg.png",
+            "href": "https://github.com/joinplex-dev/brand/blob/main/img/png/16/joinplex_icon_darkbg.png?raw=true",
         },
         {
             "rel": "icon",
             "sizes": "32x32",
-            "href": "https://github.com/joinplex-dev/brand/blob/main/img/png/32/joinplex_icon_darkbg.png",
+            "href": "https://github.com/joinplex-dev/brand/blob/main/img/png/32/joinplex_icon_darkbg.png?raw=true",
         },
         {
             "rel": "apple-touch-icon",
             "sizes": "180x180",
-            "href": "https://github.com/joinplex-dev/brand/blob/main/img/png/180/joinplex_icon_darkbg.png",
+            "href": "https://github.com/joinplex-dev/brand/blob/main/img/png/180/joinplex_icon_darkbg.png?raw=true",
             "color": "#000000",
         },
     ],
