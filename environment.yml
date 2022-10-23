@@ -26,3 +26,6 @@ dependencies:
   # documentation
   - sphinx
   - pydata-sphinx-theme
+  - sphinx-copybutton
+  - sphinx-design
+  - sphinx-toggleprompt

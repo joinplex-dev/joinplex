@@ -16,3 +16,6 @@ pre-commit>=2.15.0
 # documentation
 sphinx
 pydata-sphinx-theme
+sphinx-copybutton
+sphinx-design
+sphinx-toggleprompt

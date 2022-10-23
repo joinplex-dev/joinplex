@@ -16,10 +16,10 @@ version = "0.0.0"
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
 
 extensions = [
-    "sphinx.ext.napoleon",
     "sphinx_copybutton",
-    "sphinx_panels",
+    "sphinx_design",
     "sphinx_toggleprompt",
+    "sphinx.ext.napoleon",
     "sphinx.ext.autodoc",
     "sphinx.ext.autosummary",
     "sphinx.ext.coverage",
