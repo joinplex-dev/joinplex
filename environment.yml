@@ -25,3 +25,4 @@ dependencies:
 
   # documentation
   - sphinx
+  - pydata-sphinx-theme
