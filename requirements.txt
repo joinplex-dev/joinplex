@@ -14,7 +14,7 @@ mypy==0.981
 pre-commit>=2.15.0
 
 # documentation
-sphinx==5.1.1
+sphinx
 pydata-sphinx-theme
 sphinx-copybutton
 sphinx-design
