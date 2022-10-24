@@ -9,3 +9,4 @@ collection of thoughts and ideas at the moment.
    :caption: Contents:
 
    examples/cheese_join
+   examples/simple_join
