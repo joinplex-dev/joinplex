@@ -45,8 +45,13 @@ are missing entirely.
 
 We might come up with the following strategy to join the datasets together:
 
-.. figure:: ../_static/reference/cheese_join/flowchart.png
-   :alt: Flowchart of the join strategy
+.. figure:: ../_static/reference/cheese_join/flowchart_light.png
+    :class: only-light
+    :alt: Flowchart of the join strategy
+
+.. figure:: ../_static/reference/cheese_join/flowchart_dark.png
+    :class: only-dark
+    :alt: Flowchart of the join strategy
 
 This would be the expected output for the join:
 
