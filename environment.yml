@@ -17,7 +17,7 @@ dependencies:
   - pandas
 
   # code checks
-  - black=22.3.0
+  - black=22.10.0
   - pylint>=2.7.0
   - isort>=5.2.1
   - mypy=0.981
