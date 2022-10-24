@@ -45,11 +45,11 @@ are missing entirely.
 
 We might come up with the following strategy to join the datasets together:
 
-.. image:: ../_static/reference/cheese_join/flowchart_dark.png
+.. image:: ../_static/examples/cheese_join/flowchart_dark.png
     :class: only-dark
     :align: center
 
-.. image:: ../_static/reference/cheese_join/flowchart_light.png
+.. image:: ../_static/examples/cheese_join/flowchart_light.png
     :class: only-light
     :align: center
 

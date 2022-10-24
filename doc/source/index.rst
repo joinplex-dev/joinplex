@@ -8,4 +8,5 @@ collection of thoughts and ideas at the moment.
    :maxdepth: 2
    :caption: Contents:
 
-   reference/cheese_join
+   examples/cheese_join
+   examples/simple_join
