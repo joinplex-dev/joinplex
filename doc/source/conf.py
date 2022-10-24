@@ -14,6 +14,8 @@ author = "Nathan McDougall"
 release = "0.0"
 version = "0.0.0"
 
+master_doc = "index"
+
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
 
