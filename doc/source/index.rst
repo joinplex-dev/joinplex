@@ -9,12 +9,3 @@ collection of thoughts and ideas at the moment.
    :caption: Contents:
 
    reference/cheese_join
-
-
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
