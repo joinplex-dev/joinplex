@@ -20,3 +20,4 @@ disable = [
   "redefined-outer-name", # Because we use pytest fixtures
 ]
 good-names = ["df"]
+ignore-paths = ["^doc/.*$"]

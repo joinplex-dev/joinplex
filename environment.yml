@@ -1,5 +1,5 @@
-# Based on the environment.yml for pandas, permitted under its BSD-3-Clause license, which is
-# shared by Joinplex:
+# Based on the environment.yml for pandas, permitted under its BSD-3-Clause license,
+# which is shared by Joinplex:
 # https://github.com/pandas-dev/pandas
 name: joinplex-dev
 channels:
@@ -22,3 +22,10 @@ dependencies:
   - isort>=5.2.1
   - mypy=0.981
   - pre-commit>=2.15.0
+
+  # documentation
+  - sphinx
+  - pydata-sphinx-theme
+  - sphinx-copybutton
+  - sphinx-design
+  - sphinx-toggleprompt

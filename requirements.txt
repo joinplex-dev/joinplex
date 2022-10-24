@@ -12,3 +12,10 @@ pylint>=2.7.0
 isort>=5.2.1
 mypy==0.981
 pre-commit>=2.15.0
+
+# documentation
+sphinx
+pydata-sphinx-theme
+sphinx-copybutton
+sphinx-design
+sphinx-toggleprompt
