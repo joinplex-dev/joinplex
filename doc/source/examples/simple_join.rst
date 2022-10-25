@@ -48,7 +48,7 @@ This would be the expected output for the join:
     =============== ======== ======== ============
     Fruit           ID Num   Colour   Join Type
     =============== ======== ======== ============
-    Banana          3        Yellow   ID Num
+    Banana          1        Yellow   ID Num
     Orange          2        Orange   Fruit Name
     Apple           3        Red      ID Num
     =============== ======== ======== ============
