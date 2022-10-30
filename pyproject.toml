@@ -18,6 +18,7 @@ max-line-length = 88
 disable = [
   "import-error", # Because we won't actually install packages for pre-commit
   "redefined-outer-name", # Because we use pytest fixtures
+  "consider-iterating-dictionary", # This is controversial: using .keys() is often more explicit
 ]
 good-names = ["df"]
 ignore-paths = ["^doc/.*$"]
